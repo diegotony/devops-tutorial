@@ -1,0 +1,26 @@
+{
+  "name": "devops-tutorial",
+  "version": "1.0.0",
+  "description": "Proyecto para aplicar como funcionar devops",
+  "main": "index.js",
+  "scripts": {
+    "test": "jshint server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diegotony/devops-tutorial.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diegotony/devops-tutorial/issues"
+  },
+  "homepage": "https://github.com/diegotony/devops-tutorial#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "jshint": "^2.10.2"
+  }
+}
